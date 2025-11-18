@@ -1,0 +1,8 @@
+.vscode/
+.cph/
+*/.cph/
+.DS_Store
+Thumbs.db
+*.o
+*.exe
+*.out
